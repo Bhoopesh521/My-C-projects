@@ -3,6 +3,6 @@ Hello everyone who has taken the effort to check the rambling of a person who is
 
 Small C programs written while learning C.
 
-Version 0.0 contains beginner CLI utilities and games.
+Version 0.0 contains beginner CLI utilities. 
 
 As always, stay human!! 
