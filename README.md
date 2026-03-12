@@ -1,6 +1,8 @@
-Hello everyone who has taken the effort to check the rambling of a person 
-born in 10th July 2011. I am writing this at 12:57 IST so forgive me for my
-negligence. This repository is everything the name suggests I am sorry that I 
-couldn't provide more information. 
+Hello everyone who has taken the effort to check the rambling of a person who is declared an outcast by chatgpt.
+# my-c-projects
+
+Small C programs written while learning C.
+
+Version 0.0 contains beginner CLI utilities and games.
 
 As always, stay human!! 
